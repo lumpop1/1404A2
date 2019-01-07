@@ -1,7 +1,7 @@
 """
 Name: Chen Jianjian
 Date:2018/1/06
-Brief Project Description:
+Brief Project Description:Song list to learn
 GitHub URL:https://github.com/JCUS-CP1404/a2--lumpop1/tree/master/Assignment2
 """
 from kivy.app import App
